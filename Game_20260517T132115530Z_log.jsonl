@@ -1,0 +1,1 @@
+{"timestamp": "2026-05-17T17:23:26Z", "game_id": "Game_20260517T132115530Z", "query_type": "enter_location", "query_args": {"location_id": "unnamed_starter_town.fountain"}, "response": {"error": "location not found: unnamed_starter_town.fountain"}}
