@@ -1,1 +1,2 @@
 {"timestamp": "2026-05-18T14:23:09Z", "game_id": "Game_20260518T010959239Z", "query_type": "examine_object", "query_args": {"object_id": "hammer", "depth": "surface"}, "response": {"error": "object not found: hammer"}}
+{"timestamp": "2026-05-18T14:23:41Z", "game_id": "Game_20260518T010959239Z", "query_type": "attempt_action", "query_args": {"action_kind": "ask_hammer", "target": "what_it_remembers", "modifier": "none"}, "response": {"action_kind": "ask_hammer", "target": "what_it_remembers", "target_kind": null, "modifier": "none", "kind": "target_not_found"}}
