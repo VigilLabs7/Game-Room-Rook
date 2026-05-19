@@ -1,1 +1,2 @@
 {"timestamp": "2026-05-19T18:08:30Z", "game_id": "Game_20260518T011310317Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:courthouse_upstairs"}, "response": {"error": "location not found: INSTANCE:courthouse_upstairs"}}
+{"timestamp": "2026-05-19T18:25:58Z", "game_id": "Game_20260518T011310317Z", "query_type": "enter_location", "query_args": {"location_id": "INSTANCE:courthouse_upper_vase_room"}, "response": {"error": "location not found: INSTANCE:courthouse_upper_vase_room"}}
